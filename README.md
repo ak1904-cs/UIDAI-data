@@ -1,4 +1,3 @@
-# UIDAI-data
 # 🇮🇳 UIDAI Data Hackathon 2026  
 ## Aadhaar System Maturity, Stress & Governance Intelligence Framework
 
